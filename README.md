@@ -34,7 +34,7 @@ The **Python_codes** folder contains the python codes used to prepare the images
  * Check the **requirements.txt** file.
 
 
-# Installation
+# Use
 ```shell
 git clone https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python.git
 cd Object_Detection_using_Yolo_Darknet_OpenCv_Python
