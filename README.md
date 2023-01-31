@@ -1,7 +1,7 @@
 # Object-detection-using-Yolo-Darknet-OpenCv-Python
 This repository contains the codes related to the AI ​​Expert Academy course on the subject.
 
-![!Yolo Object Detection](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/img/resultado.jpg)
+![!Yolo Object Detection](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/img/resultado.jpg)
 *Original image: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)*
 
 # Requirements
@@ -25,13 +25,13 @@ The original YOLOv4 model can be found in this repository: [YOLOv4 Repository](h
 
  * **Image inference**:
 
-![!Yolo Object Detection](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/img/resultado_cachorro.jpg)
+![!Yolo Object Detection](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/img/resultado_cachorro.jpg)
 *Original image: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)*
 
  
  * **Video inference**:
  
- ![!YOLO Darknet  detection video](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/img/roadusa3_1.gif)
+ ![!YOLO Darknet  detection video](https://github.com/gslmota/Object_Detection_using_Yolo_Darknet_OpenCv_Python/blob/main/img/roadusa3_1.gif)
 
 
 # References:
