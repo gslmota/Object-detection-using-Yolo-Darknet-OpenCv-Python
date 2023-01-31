@@ -62,4 +62,5 @@ The original YOLOv4 model can be found in this repository: [YOLOv4 Repository](h
 # References:
 * Open Imagens Dataset: [Open Imagens Dataset](https://storage.googleapis.com/openimages/web/index.html)
 * YOLOv4 model: [YOLOv4 Repository](https://github.com/AlexeyAB/darknet)
+* IA Expert Academy: [IA Expert Academy](https://iaexpert.academy/cursos-online-assinatura/deteccao-de-objetos-com-yolo-darknet-opencv-e-python/)
 
